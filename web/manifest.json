@@ -1,0 +1,35 @@
+{
+    "name": "Paws at Home",
+    "short_name": "Paws at Home",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F3EEE6",
+    "theme_color": "#10281E",
+    "description": "Home stay for dogs and cats when the family is away.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
